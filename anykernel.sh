@@ -11,6 +11,10 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=citrus
+device.name2=lime
+device.name3=lemon
+device.name4=pomelo
+device.name5=juice
 supported.versions=11.0-12.0
 supported.patchlevels=
 '; } # end properties
